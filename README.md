@@ -1,4 +1,4 @@
-- 👋 Hi, I am Kaelan Stephens
+- 👋 Hi, I am Kaelan
 - 👀 I’m interested in developing my skills as a programmer, in whatever languages that might be!
 - 🌱 I am currently refreshing on my Python Skills, and moving towards a more diverse set of skills
 
